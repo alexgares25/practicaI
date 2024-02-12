@@ -48,8 +48,7 @@ A continuación se describen las operaciones que puedes realizar con el programa
 
 Para obtener una estimación de Pi, puedes ejecutar el siguiente comando en la línea de comandos:
 
-```bash
-java -jar tu-programa.jar <numero_de_pasos>
+    java -jar pi.jar <numero_de_pasos>
 
 ## Licencia
 **Copyright** [2023] [alexgares25]
