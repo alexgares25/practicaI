@@ -40,6 +40,17 @@ Si deseas generar documentación Javadoc para el código, puedes hacerlo con el 
 
 Esto **generará archivos de documentación** en el directorio html/.
 
+## Manual de Uso
+
+A continuación se describen las operaciones que puedes realizar con el programa.
+
+### 1. **Generar una Aproximación de Pi:**
+
+Para obtener una estimación de Pi, puedes ejecutar el siguiente comando en la línea de comandos:
+
+```bash
+java -jar tu-programa.jar <numero_de_pasos>
+
 ## Licencia
 **Copyright** [2023] [alexgares25]
 
