@@ -4,8 +4,7 @@
   1. [Introducción](#introducción)
   2. [Manual de Instalación](#manual-de-instalación)
   3. [Manual de Uso](#manual-de-uso)
-  4. [Diagrama UML](#diagrama-UML)
-  5. [Licencia](#licencia)
+  4. [Licencia](#licencia)
 
 
 
@@ -94,9 +93,6 @@ Este comando modificara el vuelo existente asociado a la ID:1  con los datos: ID
     java -jar reservavuelos.jar ayuda
 
 
-## Diagrama UML
-Aqui se muestra el Diagrama UML en formato de imagen
-![Diagrama UML.](Diagrama.png)
 
 ## Licencia
 **Copyright** [2023] [alexgares25]
