@@ -1,3 +1,6 @@
+package mates;
+import java.util.Random;
+
 /**
  * Clase Matematicas que contiene métodos relacionados con operaciones matemáticas,
  * incluyendo la generación de una aproximación al número Pi mediante el método de Montecarlo.

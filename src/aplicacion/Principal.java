@@ -1,3 +1,7 @@
+package aplicacion;
+
+import mates.Matematicas;
+
 /**
  * Clase Principal que contiene el programa principal para estimar el número pi
  * utilizando el método de Montecarlo.
