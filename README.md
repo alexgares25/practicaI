@@ -11,12 +11,34 @@ Bienvenido al programa de aproximación de Pi mediante el método de Montecarlo.
 ## Manual de Instalación
 Sigue estos pasos para **instalar** y ejecutar el programa:
 
-### 1. Descarga del código fuente
-Clona el repositorio desde GitHub a tu máquina local usando Git:
+### 1.Primero descargarse el código fuente
+Primero, **clona** el repositorio desde GitHub a tu máquina local usando Git:
 
-```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+      git clone https://github.com/alexgares25/practicaI.git
 
+### 2.Accede al Directorio del Proyecto.
+
+Navega al directorio del proyecto después de la descarga:
+
+    cd practicaI
+
+### 3.Compilar el Código Fuente
+Compila el **código fuente** usando el siguiente comando. Esto asegurará que los archivos .class se generen en el directorio bin/:
+
+    make compilar
+  
+### 4.Creamos el archivo .jar.
+Crea un **archivo ejecutable JAR** para facilitar la ejecución del programa:
+
+     make jar
+  
+### 5.Crear el javadoc.
+Si deseas generar documentación Javadoc para el código, puedes hacerlo con el siguiente comando:
+
+
+    make javadoc
+
+Esto **generará archivos de documentación** en el directorio html/.
 
 ## Licencia
 **Copyright** [2023] [alexgares25]
