@@ -6,7 +6,7 @@
   4. [Licencia](#licencia)
 
 ## Introducción
-Bienvenido al programa de aproximación de Pi mediante el método de Montecarlo. Este programa, implementado en Java, utiliza la generación de puntos aleatorios para estimar el valor de Pi. La lógica detrás del método se basa en la relación entre el área de un cuarto de círculo y el área de un cuadrado que lo contiene.
+Bienvenido al programa de aproximación de Pi mediante el método de Montecarlo.Realizado por Alejandro Gómez Ares Este programa, implementado en Java, utiliza la generación de puntos aleatorios para estimar el valor de Pi. La lógica detrás del método se basa en la relación entre el área de un cuarto de círculo y el área de un cuadrado que lo contiene.
 
 ## Manual de Instalación
 Sigue estos pasos para **instalar** y ejecutar el programa:
