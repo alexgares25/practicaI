@@ -50,6 +50,10 @@ Para obtener una estimación de Pi, puedes ejecutar el siguiente comando en la l
 
     java -jar pi.jar <numero_de_pasos>
 
+## Un ejemplo usando 100000 pasos
+
+    java -jar pi.jar 100000
+
 ## Licencia
 **Copyright** [2023] [alexgares25]
 
